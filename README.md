@@ -26,6 +26,8 @@ This project demonstrates **simple and multiple linear regression** techniques u
 ## Submission
 Submitted as part of the AI & ML Internship - Task 3.
 
+---
+
 ### Author
 **Vishwajeet Kumar**  
 BS in Data Science and Applications @ IIT Madras  
