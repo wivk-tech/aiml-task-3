@@ -15,13 +15,13 @@ This project demonstrates **simple and multiple linear regression** techniques u
 - Scikit-learn
 
 ## Results
-- **MAE**: XX
-- **MSE**: XX
-- **R² Score**: XX
+- **MAE**: 970043.4039201636
+- **MSE**: 1754318687330.6638
+- **R² Score**: 0.6529242642153184
 - Visual plot of Actual vs Predicted values
 
-## Dataset Included
-[Housing Dataset](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
+## Dataset
+[Housing Dataset (Kaggle)](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 
 ## Submission
 Submitted as part of the AI & ML Internship - Task 3.
