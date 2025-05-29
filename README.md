@@ -31,4 +31,4 @@ Submitted as part of the AI & ML Internship - Task 3.
 ### Author
 **Vishwajeet Kumar**  
 BS in Data Science and Applications @ IIT Madras  
-BTech CSE @ LNJPIT, BEU Patna  
+BTech CSE @ LNJPIT Chapra, BEU Patna  
