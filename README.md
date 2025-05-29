@@ -20,9 +20,8 @@ This project demonstrates **simple and multiple linear regression** techniques u
 - **R² Score**: XX
 - Visual plot of Actual vs Predicted values
 
-## Files Included
-- `Housing.csv` - dataset
-- `README.md` - project overview
+## Dataset Included
+dataset - https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
 
 ## Submission
 Submitted as part of the AI & ML Internship - Task 3.
