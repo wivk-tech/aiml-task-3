@@ -21,7 +21,7 @@ This project demonstrates **simple and multiple linear regression** techniques u
 - Visual plot of Actual vs Predicted values
 
 ## Dataset Included
-dataset - (https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
+[housing dataset] (https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 
 ## Submission
 Submitted as part of the AI & ML Internship - Task 3.
